@@ -1,0 +1,15 @@
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\bin\Debug\net6.0\Set-CSharp.exe
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\bin\Debug\net6.0\Set-CSharp.deps.json
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\bin\Debug\net6.0\Set-CSharp.runtimeconfig.json
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\bin\Debug\net6.0\Set-CSharp.dll
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\bin\Debug\net6.0\Set-CSharp.pdb
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.csproj.AssemblyReference.cache
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.AssemblyInfoInputs.cache
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.AssemblyInfo.cs
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.dll
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\refint\Set-CSharp.dll
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.pdb
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\Set-CSharp.genruntimeconfig.cache
+C:\Users\Yehor\RiderProjects\Set-CSharp\Set-CSharp\obj\Debug\net6.0\ref\Set-CSharp.dll
